@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kou-tkbys.github.io/'
 languageCode = 'en-us'
 title = 'tk docs'
 theme = ['hugo-book']
