@@ -1,0 +1,13 @@
+# Hugoによって自動生成される一時ファイル群は不要
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Hugoのバイナリファイルが巻き込まれた場合も不要
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# ビルド中の一時ファイルも不要
+/.hugo_build.lock
